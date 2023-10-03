@@ -4,6 +4,7 @@ import Title from "./Title";
 import { useState } from "react";
 
 export default function Submitted() {
+    const color = "text-sky-600"
     const [ submissions, setSubmissions ] = useState([{
                                                         Name: "Christino",
                                                         IdealLength: 10
