@@ -10,7 +10,7 @@ The project prompts user to enter title. Upon submitting a sharable link to the 
 I chose these technologies because they're the same technolgies I used on some of my previous projects and I am a strong believer in picking and sticking to a niche.
 
 ### Challenges
-**These challenges have not been attempted but are knowledge page I will fill**
+**These challenges have not been attempted but are knowledge gaps I will fill**
 - Developing sharable and unique instances of a webpage (Multi Zoning).
 - Building a bar graph based on user data
 
