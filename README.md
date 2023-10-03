@@ -18,3 +18,13 @@ I chose these technologies because they're the same technolgies I used on some o
 1. install project from github
 2. **run** `npm install`
 3. **run** `npm run dev`
+
+## Planning and Requirements
+![Planning](./Planning/planning-req.png)
+
+## Design
+![create](./Planning/create-poll.png)
+
+![poll](./Planning/poll-instance.png)
+
+![submissions](./Planning/poll-submissions.png)
